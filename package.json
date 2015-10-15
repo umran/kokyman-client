@@ -1,0 +1,12 @@
+{
+	"name": "kokyman-client",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node index"
+	},
+	"dependencies": {
+		"ssh2": "^0.4.11",
+		"socksv5": "0.0.6"
+	}
+}
